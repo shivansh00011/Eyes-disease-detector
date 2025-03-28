@@ -71,6 +71,9 @@ Analyzes eye alignment to detect strabismus (crossed eyes).
   * **Optimizer:** Adam (learning_rate=0.0001) for stability.
   * **Loss Function:** Categorical Crossentropy.
 
+* **How to use:**
+  Redness Detection: <a href="https://colab.research.google.com/drive/1l83gVpr1dy-9k7Bo8GN0TR0fmILduGoS">Redness Detection (Colab)</a>
+
 ### 📌 Future Improvements:
   * 🏥 Expand the dataset with more real-world images.
   * 📱 Build a mobile/web app for easy access.
