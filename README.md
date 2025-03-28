@@ -73,6 +73,7 @@ Analyzes eye alignment to detect strabismus (crossed eyes).
 
 ### How to use:
   Redness Detection: <a href="https://colab.research.google.com/drive/1l83gVpr1dy-9k7Bo8GN0TR0fmILduGoS">Redness Detection (Colab)</a>
+  
   Cataract Detection: <a href="https://www.kaggle.com/code/shivanshyadav1514/notebookf50a04b1d9/edit/run/225623938">Cataract Detection (Kaggle)</a>
 
 ### 📌 Future Improvements:
